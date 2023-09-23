@@ -1,0 +1,36 @@
+SOUPS
+Broccoli Soup
+Pumpkin Soup
+Mutton Bone Soup
+Sweet Corn Soup
+Carrot Soup
+
+
+SALADS
+1.Carrot Salad 120
+2.Simple Kale Salad 120
+3.Simple Lettuce Salad 120
+4.Mexican Kale Salad 120
+5.Corn Salad 120
+6.Moog bean Sprouts Salad 120
+7.Chickpeas Salad 120
+8.Bell Pepper Salad 120
+9.Avacado Salad 120
+
+RICE ITEMS
+1.Carrot Rice = 69
+2.Beetroot Rice = 69
+3.Corn and Peas Rice = 69
+4.Cabbage Rice = 69
+5.Fried Rice = 69
+6.Beetroot Curd Rice = 89
+7.Carrot Curd Rice = 89
+
+SMOOTHIES
+
+
+ADDONS:
+Chicken
+Paneer
+Egg
+Fish

@@ -1,0 +1,6 @@
+Fridge: 1000 ltr 1,00,000
+Mixer and Jiucer 15,000
+Gas and Stove 25,000
+Air Fryer 15,000
+Others: 20000
+Total: 1,65,000
