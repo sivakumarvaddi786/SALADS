@@ -1,3 +1,12 @@
+def calculate_total_price(vegetable_dict, items):
+    total_price = 0
+    for veg, grams in items.items():
+        if veg in vegetable_dict:
+            price_per_kg = vegetable_dict[veg]
+            price_per_gram = price_per_kg / 1000  # Convert price per kg to price per gram
+            total_price += price_per_gram * grams
+    return total_price
+
 def calculate_daily_target(income_goal, margin_percentage, recipes, vegetable_prices):
     # Calculate the daily target based on the monthly goal and margin
     daily_target = (income_goal / 30) / (1 + margin_percentage / 100)
@@ -14,7 +23,7 @@ def calculate_daily_target(income_goal, margin_percentage, recipes, vegetable_pr
 
 def main():
     margin_percentage = 100  # Margin percentage (100%)
-    income_goal = 200000  # Monthly income goal in INR
+    income_goal = 60000  # Monthly income goal in INR
 
     # Define vegetable prices and recipes (same as in your initial code)
     vegetable_prices = {
